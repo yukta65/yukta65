@@ -53,6 +53,13 @@
 
 ---
 
+### 🎮 Play My Snake Game!
+
+<a href="https://yukta65.github.io/snake-game/" target="_blank">
+  <img src="https://img.shields.io/badge/🐍 Play Snake Game -green?style=for-the-badge" />
+</a>
+
+
 ### 👩‍💻 LeetCode Stats:
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/yukta11?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
