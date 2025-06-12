@@ -63,6 +63,15 @@
 
 ---
 
+### 🏆 CodeChef Stats
+
+<p align="left">
+  <a href="https://www.codechef.com/users/yukta_6" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-yukta__6-blueviolet?style=for-the-badge&logo=codechef" alt="CodeChef Badge"/>
+  </a>
+</p>
+
+
 ### 👩‍💻 LeetCode Stats:
 <p align="left">
   <img src="https://leetcard.jacoblin.cool/yukta11?theme=dark&font=Karma&ext=activity" alt="LeetCode Stats" />
